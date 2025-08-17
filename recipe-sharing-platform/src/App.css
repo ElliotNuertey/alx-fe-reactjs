@@ -1,0 +1,7 @@
+/* App.css - Minimal styles for the Recipe Sharing Platform */
+.App {
+  min-height: 100vh;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Additional custom styles can be added here */
